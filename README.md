@@ -31,6 +31,19 @@ Bored while taking a break? Enjoy a suite of lightweight, built-in games directl
 * 🏏 **Cricket Game**
 * ⚽ **Football Game**
 * 🏃 **Runner**
+<img width="940" height="707" alt="image" src="https://github.com/user-attachments/assets/de3a0af3-6172-4324-be7f-1e747608c3be" />
+<img width="1513" height="843" alt="image" src="https://github.com/user-attachments/assets/3fbda1a7-fdd5-40ce-8228-6fdc27857634" />
+<img width="1496" height="840" alt="image" src="https://github.com/user-attachments/assets/f931f25a-0456-4ea1-aaf3-3e37503570e1" />
+<img width="1470" height="837" alt="image" src="https://github.com/user-attachments/assets/6fafae31-9371-4cb2-ac45-a7d246a3bc2e" />
+<img width="1462" height="835" alt="image" src="https://github.com/user-attachments/assets/0a37d677-63db-4379-8fc1-b1938bdbe89c" />
+<img width="1462" height="835" alt="image" src="https://github.com/user-attachments/assets/7ce0cd7a-1d51-4756-b07c-a8c24458f5a8" />
+<img width="1467" height="815" alt="image" src="https://github.com/user-attachments/assets/72a9201e-6f6c-4abd-a393-996ff2175919" />
+
+
+
+
+
+
 
 ---
 
@@ -62,3 +75,19 @@ Bored while taking a break? Enjoy a suite of lightweight, built-in games directl
 
 *Stay tuned for our upcoming releases!*  
 **— Z SOFTWARE Team**
+<img width="1587" height="907" alt="image" src="https://github.com/user-attachments/assets/ceeb1b6e-88c0-4ccd-a3a1-8f59112214ae" />
+<img width="1548" height="842" alt="image" src="https://github.com/user-attachments/assets/6758e63b-4b2e-4476-a7e6-95b4e41cda6d" />
+<img width="1500" height="701" alt="image" src="https://github.com/user-attachments/assets/ef7f59fd-9f27-422c-bdb1-bf75a1843cbd" />
+<img width="1516" height="872" alt="image" src="https://github.com/user-attachments/assets/3f6acbad-7307-47ca-b04b-068039e47685" />
+<img width="378" height="347" alt="image" src="https://github.com/user-attachments/assets/15f492a4-e4a9-4bf6-8da2-00fef50ac07f" />
+<img width="476" height="395" alt="image" src="https://github.com/user-attachments/assets/56a48d68-649d-4b05-b9dc-8ebbc10b5784" />
+<img width="978" height="695" alt="image" src="https://github.com/user-attachments/assets/343be047-915f-4343-9aaa-04e0f070caf9" />
+<img width="927" height="791" alt="image" src="https://github.com/user-attachments/assets/e86660be-163e-49c5-a0e3-840785de0c0f" />
+
+
+
+
+
+
+
+
