@@ -1,53 +1,64 @@
-# ZyberGo Browser
+# ZyberGo v2.4.00 — *The Next-Gen Private & Lightweight Browser*
 
-**ZyberGo** is a ultra-fast, lightweight web browser built on the Chromium engine. Created by **Ryan**, ZyberGo is designed from the ground up to respect your privacy with zero telemetry, zero built-in ads, and complete tracking protection.
-
----
-
-> **Status:** Pre-Release (Official release coming very soon!)
-> **Pricing:** 100% Free Forever
+> **No Telemetry. Pure Speed. Absolute Privacy.**  
+> *Developed with ❤️ by Z SOFTWARE*
 
 ---
 
-## Key Features
+## 🚀 Highlights & Major Features
 
-* **Chromium-Powered Speed:** Built on Chromium for maximum web compatibility and lightning-fast rendering.
-* **Zero Telemetry & Zero Ads:** Your data stays strictly on your device. No user tracking, background analytics, or injected ads.
-* **Multi-Engine Support:** Built-in seamless support for over 9 search engines right out of the box.
-* **Lightweight & Fast Setup:** Minimal system resource usage with a super-fast installation process.
-
----
-
-## Upcoming Features (Coming Soon)
-
-We are actively working on major upgrades for future releases:
-
-* **ZSEARCH:** A brand-new, privacy-focused search engine integrated directly into ZyberGo.
-* **Z LASER:** Advanced built-in ad and tracker blocking engine designed to eliminate aggressive scripts instantly.
-* **New Themes:** Deep UI customization options including custom dark, light, and accent themes.
+### 🔍 ZSEARCH is Now Complete & Out of Beta
+* **Out of Beta:** We’ve officially removed the `BETA` tag from ZSEARCH!
+* **Automatic Web Indexing:** Just enter a website and pages, and ZSEARCH will index them automatically.
+* **Dual Search Modes:** Toggle effortlessly between **AI Mode** and **Non-AI Mode**.
+* **AI Overviews:** Get fast, direct answers and summarized results powered by AI.
+* **Trending Searches:** Added trending search suggestions to keep you updated on what’s happening in real-time.
 
 ---
 
-## Installation & Getting Started
-
-1. Download the latest pre-release setup package from the [Releases](https://github.com/) section.
-2. Run the installer and follow the quick setup wizard.
-3. Choose your default search engine and start browsing safely.
+### 🤖 ZEA AI — Smarter, Adaptive & In-Built
+* **Adaptive AI Ad-Blocker:** An intelligent ad blocker that learns and adapts over time to block intrusive ads while keeping site performance blazing fast.
+* **ZEA AI Commands:** Control your browser with natural language commands (e.g., type or say *"open YouTube"* and ZEA AI handles it).
+* **AI Web Surfing:** ZEA AI can now search the web using ZSEARCH to answer your complex questions directly with AI Overviews.
 
 ---
 
-## License & Support
+### 🎮 Built-in Arcade & Offline Games
+Bored while taking a break? Enjoy a suite of lightweight, built-in games directly inside ZyberGo:
+* ♟️ **Chess Mode**
+* 🏄 **Surfing Game**
+* 🎲 **Cube Dash**
+* 🏏 **Cricket Game**
+* ⚽ **Football Game**
+* 🏃 **Runner**
 
-ZyberGo is created by **Ryan** and will remain free forever. Stay tuned for official release updates!<img width="1919" height="839" alt="image" src="https://github.com/user-attachments/assets/54fce87c-9de6-47a3-931b-bf65b5e8edc8" />
-<img width="1178" height="850" alt="image" src="https://github.com/user-attachments/assets/80aa74ed-34ea-41eb-a51b-49104bd4d371" />
-<img width="1178" height="850" alt="image" src="https://github.com/user-attachments/assets/522c507d-bc89-4f67-9692-9acf36ea1d79" />
-<img width="971" height="828" alt="image" src="https://github.com/user-attachments/assets/14d2803c-0e21-49dd-8f1b-85176ce12f70" />
-<img width="908" height="797" alt="image" src="https://github.com/user-attachments/assets/582e71be-6882-4c83-8e03-62cb87f05236" />
-<img width="929" height="844" alt="image" src="https://github.com/user-attachments/assets/02e77da9-86b9-4e85-8969-d20375786941" />
-<img width="1196" height="943" alt="image" src="https://github.com/user-attachments/assets/33abed1e-cf7e-4c69-9365-874f20bb6947" />
+---
 
+### 🎨 Themes & UI Overhaul
+* **Theme Studio:** Introducing **ZLASER Advanced Theme Studio** to create and customize your perfect browser look.
+* **Setting Layout Redesign:** Replaced the legacy settings layout with a modern, clean grid-based design.
+* **Widgets & Right-Click Support:** Added interactive widgets and enhanced context menu (right-click) support across the app.
+* **Smooth Animations:** Added smooth UI transitions and fluid motion effects.
+* *(Note: Deprecated and removed the old "Theme Park" feature).*
 
+---
 
+### 🛡️ Privacy, Security & Utilities
+* **ZEA RELAX Mode:** Webpage broken by aggressive ad blocking? Enable ZEA RELAX mode to quickly repair and restore broken site scripts without compromising privacy.
+* **Privacy Report:** Detailed breakdown showing blocked trackers, saved bandwidth, and blocked ad scripts.
+* **Shortcut Cheat Sheet:** Quick access reference guide for hotkeys.
+* **Panic Wipe:** Instantly erase sensitive browsing history, cache, and active sessions with a single hotkey.
+* **Built-in Lite Mode:** Introduced a dedicated Lite Mode directly inside the installer/app, optimized for minimal RAM usage on low-spec hardware.
 
+---
 
+## 🐛 Bug Fixes & Stability Improvements
+* Fixed smooth scrolling bugs across long web pages.
+* Resolved memory reader leak bugs to optimize overall RAM usage.
+* Improved web page rendering stability when handling complex JavaScript apps.
+* General performance enhancements and crash fixes.
 
+---
+
+*Stay tuned for our upcoming releases!*  
+**— Z SOFTWARE Team**
